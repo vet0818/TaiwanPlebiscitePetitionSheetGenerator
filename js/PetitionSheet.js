@@ -18,6 +18,9 @@ function copy_input_to_span(id) {
     $("input#" + id).keyup(function() {
         $("span#" + id).text($(this).val());
     })
+    $("input#" + id).blur(function() {
+        $("span#" + id).text($(this).val());
+    })
 }
 
 function change_topic(topic) {
