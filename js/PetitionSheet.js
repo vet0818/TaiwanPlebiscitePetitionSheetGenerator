@@ -296,7 +296,7 @@ function update_envelope() {
     // petition only.
     receiver_zipcode = '11699';
     receiver_address = '台北市文山區武功郵局9號信箱';
-    receiver_name = '平權前夕˙彩虹起義 反制公投行動小組';
+    receiver_name = '平權前夕·彩虹起義 反制公投行動小組';
 
     $("span#receiver_zipcode").text(receiver_zipcode);
     $("span#receiver_address").text(receiver_address);
