@@ -189,10 +189,19 @@ function id_validation(id) {
     return true;
 }
 
+function remove_leading_zero(element) {
+    if (typeof element === 'string' || element instanceof String) {
+        if (element.length === 2) {
+            element = element.replace(/^0/, "");
+        }
+    }
+    return element;
+}
+
 function birthday_validation(year_element, month_element, date_element) {
     birth_year = year_element.val();
-    birth_month = month_element.val();
-    birth_date = date_element.val();
+    birth_month = remove_leading_zero(month_element.val());
+    birth_date = remove_leading_zero(date_element.val());
 
     input_birthday_string = birth_year + '-' + birth_month + '-' + birth_date;
     birthday = new Date(parseInt(birth_year, 10), parseInt(birth_month, 10) - 1,
