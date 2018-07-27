@@ -4,26 +4,26 @@ div.sheet {
 
 div.id {
     padding-left: 60mm;
-    padding-top: 107mm;
+    padding-top: 106mm;
     font-size: 23px;
-    letter-spacing: 12px;
+    letter-spacing: 10px;
 }
 
 div.year {
-    padding-left: 61mm;
-    padding-top: 118mm;
+    padding-left: 60mm;
+    padding-top: 117mm;
     font-size: 23px;
 }
 
 div.month {
-    padding-left: 87mm;
-    padding-top: 118mm;
+    padding-left: 86mm;
+    padding-top: 117mm;
     font-size: 23px;
 }
 
 div.date {
     padding-left: 108mm;
-    padding-top: 118mm;
+    padding-top: 117mm;
     font-size: 23px;
 }
 
@@ -34,63 +34,63 @@ div.province {
 }
 
 div.province_1_circle {
-    padding-left: 88mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-left: 89mm;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.province_2_circle {
-    padding-left: 96mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-left: 97mm;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.county {
-    padding-left: 112mm;
+    padding-left: 116mm;
     padding-top: 128mm;
     font-size: 20px;
 }
 
 div.county_1_circle {
-    padding-left: 134mm;
-    padding-top: 126mm;
-    font-size: 32px;
+    padding-left: 135mm;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.county_2_circle {
-    padding-left: 142mm;
-    padding-top: 126mm;
-    font-size: 32px;
+    padding-left: 143mm;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.district {
-    padding-left: 157mm;
+    padding-left: 160mm;
     padding-top: 128mm;
     font-size: 20px;
 }
 
 div.district_1_circle {
     padding-left: 181mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.district_2_circle {
     padding-left: 189mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.district_3_circle {
     padding-left: 200mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.district_4_circle {
     padding-left: 211mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.village {
@@ -101,14 +101,14 @@ div.village {
 
 div.village_1_circle {
     padding-left: 249mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.village_2_circle {
     padding-left: 257mm;
-    padding-top: 126mm;
-    font-size: 30px;
+    padding-top: 123mm;
+    font-size: 45px;
 }
 
 div.neighbor {
@@ -125,14 +125,14 @@ div.road {
 
 div.road_1_circle {
     padding-left: 134mm;
-    padding-top: 134mm;
-    font-size: 30px;
+    padding-top: 131mm;
+    font-size: 45px;
 }
 
 div.road_2_circle {
-    padding-left: 142mm;
-    padding-top: 134mm;
-    font-size: 30px;
+    padding-left: 143mm;
+    padding-top: 131mm;
+    font-size: 45px;
 }
 
 div.section {
@@ -154,7 +154,7 @@ div.alley {
 }
 
 div.number {
-    padding-left: 219mm;
+    padding-left: 218mm;
     padding-top: 136mm;
     font-size: 20px;
 }
