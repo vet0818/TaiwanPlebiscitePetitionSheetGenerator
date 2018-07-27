@@ -15,7 +15,7 @@ div.alley, div.number, div.floor, div.part {
 }
 
 div.id, div.year, div.month, div.date {
-    font-family: 'Noto Sans TC', 'Inconsolata', monospace;
+    font-family: 'Inconsolata', monospace;
 }
 
 div.circle {

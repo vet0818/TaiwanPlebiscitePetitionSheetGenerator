@@ -1,5 +1,3 @@
-@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
-
 div.evelope-wrapper {
     padding:  10px 32px;
 }
@@ -65,7 +63,7 @@ span#stamp {
 
 span#sender_zipcode {
     display: block;
-    font-family: 'Noto Sans TC', 'Inconsolata', monospace;
+    font-family: 'Inconsolata', monospace;
     font-size: 20px;
     left: 0px;
 }
