@@ -216,7 +216,7 @@ function birthday_validation(year_element, month_element, date_element) {
     // Check above age 18.
     // FIXME: Different petition has different due date.
     due_year = 2018;
-    due_month = 7;
+    due_month = 8;
     due_date = 31;
 
     if (due_year - birth_year < 18) {
