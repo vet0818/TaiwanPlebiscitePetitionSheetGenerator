@@ -220,15 +220,18 @@ function birthday_validation(year_element, month_element, date_element) {
     due_date = 31;
 
     if (due_year - birth_year < 18) {
+        alert('您在2018年8月31日時仍未滿18歲，不能連署喔！');
         return false;
     }
 
     if (due_year - birth_year == 18 && due_month < birth_month) {
+        alert('您在2018年8月31日時仍未滿18歲，不能連署喔！');
         return false;
     }
 
     if (due_year - birth_year == 18 && due_month == birth_month &&
         due_date < birth_date) {
+        alert('您在2018年8月31日時仍未滿18歲，不能連署喔！');
         return false;
     }
 
@@ -345,7 +348,7 @@ function create_data_binding() {
 
 function export_pdf() {
     if (!data_validation()) {
-        alert('資料不齊全或錯誤，請修正紅框標示處的資料，若為程式誤判請聯絡我們');
+        alert('資料不齊全或錯誤，請修正紅框標示處的資料，若為程式誤判請聯絡我們。');
         return;
     }
 
