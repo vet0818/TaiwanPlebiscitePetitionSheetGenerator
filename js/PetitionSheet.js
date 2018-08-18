@@ -334,7 +334,9 @@ function create_data_binding() {
     copy_input_to_span("part")
 
     $("select#county").change(handle_county_change)
+    $("select#county").keyup(handle_county_change)
     $("select#district").change(handle_district_change)
+    $("select#district").keyup(handle_district_change)
     $("input#village").keyup(handle_village_change)
     $("input#road").keyup(handle_road_change)
 
