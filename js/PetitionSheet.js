@@ -306,9 +306,9 @@ function update_envelope() {
 
     // FIXME: The address mapping is for "National Holiday Law" and "Labor Law"
     // petition only.
-    receiver_zipcode = '24199';
-    receiver_address = '三重正義郵局第605號信箱';
-    receiver_name = '平權前夕·彩虹起義 反制公投行動小組';
+    receiver_zipcode = '402';
+    receiver_address = '台中市南區興大路145號';
+    receiver_name = '中興大學景觀與遊憩學位學程 董建宏老師';
 
     $("span#receiver_zipcode").text(receiver_zipcode);
     $("span#receiver_address").text(receiver_address);

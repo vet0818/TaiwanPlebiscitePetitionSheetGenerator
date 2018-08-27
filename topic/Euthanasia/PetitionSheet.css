@@ -1,0 +1,172 @@
+div.sheet {
+    background-image: url('PetitionSheet.jpg');
+}
+
+div.id {
+    padding-left: 61mm;
+    padding-top: 104mm;
+    font-size: 23px;
+    letter-spacing: 11px;
+}
+
+div.year {
+    padding-left: 60mm;
+    padding-top: 115mm;
+    font-size: 23px;
+}
+
+div.month {
+    padding-left: 86mm;
+    padding-top: 115mm;
+    font-size: 23px;
+}
+
+div.date {
+    padding-left: 108mm;
+    padding-top: 115mm;
+    font-size: 23px;
+}
+
+div.province {
+    padding-left: 70mm;
+    padding-top: 124mm;
+    font-size: 20px;
+}
+
+div.province_1_circle {
+    padding-left: 85mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.province_2_circle {
+    padding-left: 93mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.county {
+    padding-left: 116mm;
+    padding-top: 124mm;
+    font-size: 20px;
+}
+
+div.county_1_circle {
+    padding-left: 131mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.county_2_circle {
+    padding-left: 139mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.district {
+    padding-left: 160mm;
+    padding-top: 124mm;
+    font-size: 20px;
+}
+
+div.district_1_circle {
+    padding-left: 177mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.district_2_circle {
+    padding-left: 185mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.district_3_circle {
+    padding-left: 196mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.district_4_circle {
+    padding-left: 207mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.village {
+    padding-left: 228mm;
+    padding-top: 124mm;
+    font-size: 20px;
+}
+
+div.village_1_circle {
+    padding-left: 245mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.village_2_circle {
+    padding-left: 253mm;
+    padding-top: 119mm;
+    font-size: 45px;
+}
+
+div.neighbor {
+    padding-left: 70mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
+
+div.road {
+    padding-left: 97mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
+
+div.road_1_circle {
+    padding-left: 130mm;
+    padding-top: 129mm;
+    font-size: 45px;
+}
+
+div.road_2_circle {
+    padding-left: 139mm;
+    padding-top: 129mm;
+    font-size: 45px;
+}
+
+div.section {
+    padding-left: 157mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
+
+div.lane {
+    padding-left: 178mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
+
+div.alley {
+    padding-left: 200mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
+
+div.number {
+    padding-left: 218mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
+
+div.floor {
+    padding-left: 240mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
+
+div.part {
+    padding-left: 263mm;
+    padding-top: 134mm;
+    font-size: 20px;
+}
